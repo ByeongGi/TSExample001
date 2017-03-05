@@ -1,0 +1,3 @@
+function sealed(target) {
+    // do something with 'target' ...
+}
